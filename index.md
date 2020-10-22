@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## About Us
 
 Greater Island LLC is the parent company of several ecommerce brands.
 - Free Yourself Inc.
